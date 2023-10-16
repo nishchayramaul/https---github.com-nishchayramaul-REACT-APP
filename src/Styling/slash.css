@@ -1,0 +1,25 @@
+.parent{
+    position: absolute;
+    display : flex;
+    flex-direction: row;
+    width: 200px;
+    bottom:574px;
+    right:240px;
+}
+
+.top{
+    position: absolute;
+    right: 110px;
+    bottom:-1px;
+    color: rgb(184, 176, 176);
+
+}
+.toplft{
+    position: absolute;
+    right:-10px;
+    bottom:-1px;
+    color: rgb(195, 188, 188);
+ 
+    
+
+}

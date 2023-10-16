@@ -1,0 +1,60 @@
+
+.head{
+    font-size: 70px;
+    display: flex;
+    text-align: left;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Gabarito', cursive;
+}
+
+span{
+    color: rgb(38, 113, 230);
+    position: relative;
+    right:100px;
+    top:85px;
+    display:block;
+  }
+
+  .container{
+    display: flex;
+    padding-top:200px;
+    padding-left:100px;
+    
+  }
+
+.head1{
+  font-size: 50px;
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-family: 'Gabarito', cursive;
+  background-color: blanchedalmond;
+  bottom:30px
+
+}
+.work{
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-family: 'Gabarito', cursive;
+  font-size:37px;
+  display:flex;
+  margin-left:5%;
+}
+
+
+.headingbtm  {
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-family: 'Gabarito', cursive;
+  color: white;   
+
+}
+.header2{
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-family: 'Gabarito', cursive;
+  color: white;   
+  font-size:20px;
+}
+.header3{
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-family: 'Gabarito', cursive;
+  color: white;   
+  font-size:20px;
+}
+

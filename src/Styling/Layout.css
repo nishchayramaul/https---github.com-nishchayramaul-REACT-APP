@@ -1,0 +1,30 @@
+.layout{
+    height:1000px;
+    position: relative;
+    background-color: rgb(240, 247, 255);
+}
+.header{
+    display:flex;
+    width:350px;
+    height:50x;
+    justify-content: space-between;
+    margin:auto;
+    position: absolute;
+    bottom:560px;
+    font-size: 25px;
+    font-family: 'Fuzzy Bubbles', cursive;
+     font-family: 'Gabarito', cursive;
+}
+
+.desc{
+    color: rgb(38, 113, 230);
+    font-size: 15px;
+    position:absolute;
+    top:8px;
+    left:230px;
+}
+
+
+
+
+

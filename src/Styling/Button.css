@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Gabarito&display=swap');
+.btn{
+     width: 250px;
+     height: 55px;
+     border-radius: 60px;
+     font-family: 'Fuzzy Bubbles', cursive;
+     font-family: 'Gabarito', cursive;
+}
+.btnposition{
+   
+    
+     height:100px;
+     position: absolute;
+     top:70px;
+     right:80px;
+     margin:auto;
+     height: 40px;
+}
+.callbtnposition{
+    
+    height:100px;
+    position : absolute;
+    top:70px;
+    right:300px;
+
+}
+.callbtn{
+
+}
+
+.btn2position{
+    height:100px;
+    position: relative;
+    top:40px ;
+    left:100px;
+   
+}
+.btn2{
+    width: 250px;
+    height: 55px;
+    border-radius: 60px;
+}
+
+.box3{
+    margin-top:1%;
+    position:absolute;
+    right:350px;
+}
+
+.savebtn{
+
+    margin-top:20%;
+    
+}

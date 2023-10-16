@@ -1,0 +1,101 @@
+.insta{
+  
+    margin:auto;
+    position: absolute;
+    bottom:570px;
+    right:160px;
+}
+
+.fb{
+
+    margin:auto;
+    position: absolute;
+    bottom:570px;
+    right:190px;
+}
+/* Google Maps  */
+.gmaps{
+    color: rgb(161, 171, 184);
+    position: absolute;
+    top:60px;
+    font-family: 'Fuzzy Bubbles', cursive;
+     font-family: 'Gabarito', cursive;
+}
+
+.mapiconpos{
+    
+    margin: auto;
+    height:40px;
+    width: 40px;
+    border-color: rgb(184, 176, 176);
+    border-radius: 30%;
+    display:flex;
+    justify-content: center;
+    position: absolute;
+    top:95px;
+    background-color: white;
+    left:10px;
+}
+.mapicon{
+    padding-top:7px;
+    height:23px;
+    width: 20px;
+}
+
+.mapstext{
+    font-size: 23px;
+    position: absolute;
+    top:103px;
+    left:70px;
+    color: rgb(110, 117, 125);
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Gabarito', cursive;
+}
+
+.mapicn{
+    padding-top:3px;
+    height:23px;
+    width: 20px;
+}
+
+.icn{
+    display: flex;
+    margin-top:15%;
+    flex-direction: row;
+    width: 12%;
+    align-items: center;
+    margin-left:45%;
+   
+}
+
+.icnpos{
+    margin: auto;
+    height:30px;
+    width: 30px;
+    border-color: rgb(184, 176, 176);
+    border-radius: 30%;
+    display:flex;
+    justify-content: center;
+    background-color: white;
+    border-width:1px ;
+    border-style:solid;
+    border-left: 1px;
+    border-right: 1px;
+    
+   
+}
+.maptxt{
+    font-size: 18px;
+    color: rgb(110, 117, 125);
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Gabarito', cursive;
+    margin-right:1%
+}
+
+.instaicon{
+  margin-right:8px
+}
+
+.fbicon{
+ margin-left:8px;
+}

@@ -1,0 +1,11 @@
+.wall{
+
+  position: absolute;
+    right:20px;
+    bottom:-10px;
+}
+
+.size{
+    max-width: 800px;
+    max-height:800px ;
+}
